@@ -5,8 +5,8 @@ A project aiming to understand and improve explainability for IAs in a game such
 ## List of used articles :
 
 New:
--https://arxiv.org/pdf/1701.08317.pdf
--https://link.springer.com/chapter/10.1007/978-3-030-62056-1_3?fbclid=IwAR3p-3cAgTgk4mExCmdU7GMl4BkAnn7EKqHclJBS207G07xmd3a5easlHjk
+- https://arxiv.org/pdf/1701.08317.pdf
+- https://link.springer.com/chapter/10.1007/978-3-030-62056-1_3?fbclid=IwAR3p-3cAgTgk4mExCmdU7GMl4BkAnn7EKqHclJBS207G07xmd3a5easlHjk
 
 
 Previous:
